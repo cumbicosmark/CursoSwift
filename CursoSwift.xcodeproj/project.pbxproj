@@ -47,7 +47,6 @@
 		F89029271C90BB7E00E09E0F /* CursoSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CursoSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F890292B1C90BB7E00E09E0F /* CursoSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CursoSwiftUITests.swift; sourceTree = "<group>"; };
 		F890292D1C90BB7E00E09E0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F89029391C90BC9D00E09E0F /* Semana2_minireto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Semana2_minireto.playground; path = ../Semana2_minireto.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +77,6 @@
 		F89028FF1C90BB7D00E09E0F = {
 			isa = PBXGroup;
 			children = (
-				F89029391C90BC9D00E09E0F /* Semana2_minireto.playground */,
 				F890290A1C90BB7E00E09E0F /* CursoSwift */,
 				F890291F1C90BB7E00E09E0F /* CursoSwiftTests */,
 				F890292A1C90BB7E00E09E0F /* CursoSwiftUITests */,
